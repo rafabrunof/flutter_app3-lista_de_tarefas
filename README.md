@@ -1,6 +1,6 @@
 # tarefas
 
-A new Flutter project.
+Terceiro exercício do curso de Flutter fazendo aplicativo de lista de tarefas.
 
 ## Getting Started
 
